@@ -1,0 +1,11 @@
+#game {
+    display: flex;
+    justify-content: center;
+}
+
+#die1, #die2 {
+    margin: 5px;
+    border: 3px solid black;
+    padding: 50px;
+    cursor: pointer;
+}
